@@ -4,7 +4,7 @@
     {
       "src": "favicon.jpg",
       "sizes": "576x576",
-      "type": "image/jpg"
+      "type": "image"
     }
   ],
   "start_url": ".",
