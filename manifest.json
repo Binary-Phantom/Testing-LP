@@ -2,9 +2,9 @@
   "name": "BomberIF",
   "icons": [
     {
-      "src": "favicon.svg",
+      "src": "favicon.jpg",
       "sizes": "576x576",
-      "type": "image/svg+xml"
+      "type": "image/jpg"
     }
   ],
   "start_url": ".",
