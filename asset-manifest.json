@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/BomberIF/static/css/main.bb3769ec.css",
-    "main.js": "/BomberIF/static/js/main.3288bf59.js",
-    "index.html": "/BomberIF/index.html",
-    "main.bb3769ec.css.map": "/BomberIF/static/css/main.bb3769ec.css.map",
-    "main.3288bf59.js.map": "/BomberIF/static/js/main.3288bf59.js.map"
+    "main.css": "/Testing-LP/static/css/main.bb3769ec.css",
+    "main.js": "/Testing-LP/static/js/main.3288bf59.js",
+    "index.html": "/Testing-LP/index.html",
+    "main.bb3769ec.css.map": "/Testing-LP/static/css/main.bb3769ec.css.map",
+    "main.3288bf59.js.map": "/Testing-LP/static/js/main.3288bf59.js.map"
   },
   "entrypoints": [
     "static/css/main.bb3769ec.css",
