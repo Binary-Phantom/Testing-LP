@@ -3,7 +3,7 @@
   "icons": [
     {
       "src": "favicon.svg",
-      "sizes": "3000x1485",
+      "sizes": "576x576",
       "type": "image/svg+xml"
     }
   ],
