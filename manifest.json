@@ -1,14 +1,15 @@
 {
   "name": "BomberIF",
+  "short_name": "BomberIF",
   "icons": [
     {
-      "src": "favicon.svg",
-      "sizes": "576x576",
+      "src": "/Testing-LP/favicon.svg",
+      "sizes": "any",
       "type": "image/svg+xml"
     }
   ],
-  "start_url": ".",
+  "start_url": "/Testing-LP/",
   "display": "standalone",
   "theme_color": "#0000ff",
-  "background_color": "#000"
+  "background_color": "#000000"
 }
